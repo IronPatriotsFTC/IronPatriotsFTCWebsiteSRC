@@ -10,7 +10,7 @@ ul.firstfunny
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #f5f5f5;
  /*   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -44,7 +44,7 @@ li.funny{
   margin: 10px 30px;
   display: inline-block;
   font-size: 20px;
-  padding: 1px 1px;
+  padding: 0px 0px;
   color: #f5f5f5;
   /*border: 1px solid #f5f5f5;
   border-radius: 0%;
